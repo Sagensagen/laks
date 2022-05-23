@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.title {
+  padding-top: 1em;
+  padding-bottom: 1em;
+  text-align: center;
+}
+
+.home-bg {
+  background: gray;
+}
+
+.new-bg {
+  background: rgb(179, 255, 0);
+}

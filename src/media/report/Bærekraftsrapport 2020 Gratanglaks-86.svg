@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="595.276pt" height="841.89pt" viewBox="0 0 595.276 841.89">
+<g enable-background="new">
+<g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#404041" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="50" font-family="Roboto" font-weight="bold"><tspan y="-402.1949" x="186.9897 219.9647 251.2597 265.45973">GRI-</tspan></text>
+<text fill="#404041" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="50" font-family="Roboto"><tspan y="-402.1949" x="280.8397 305.13969 331.5847 359.0847 385.0697 396.17973">Tabell</tspan></text>
+<text fill="#404041" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="8" font-family="Roboto" font-weight="bold"><tspan y="-44.7402" x="70.8661 75.65009">86</tspan></text>
+<text fill="#404041" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="7" font-family="Roboto"><tspan y="-29.016" x="70.8661 75.703098 80.2755 82.3622 85.0292 88.8631 93.51949 98.13949 102.16799 106.206989">GRI-TABELL</tspan></text>
+<g id="Layer-1" data-name="Artifact">
+<clipPath id="cp750">
+<path transform="matrix(1,0,0,-1,0,841.89)" d="M 0 0 L 595.276 0 L 595.276 841.89 L 0 841.89 Z "/>
+</clipPath>
+<g clip-path="url(#cp750)">
+<path transform="matrix(1,0,0,-1,1119.685,802.3869)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#404041" d="M 0 0 L -1048.819 0 "/>
+</g>
+<g id="Layer-1" data-name="Artifact">
+<path transform="matrix(1,0,0,-1,70.8661,39.3869)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#404041" d="M 0 0 L 1048.819 0 "/>
+</g>
+</g>
+</g>
+</g>
+</svg>
