@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="595.276pt" height="841.89pt" viewBox="0 0 595.276 841.89">
+<g enable-background="new">
+<g>
+<path transform="matrix(1,0,0,-1,0,841.89)" d="M 70.866 702.632 L 524.223 702.632 L 524.223 680.315 L 70.866 680.315 Z " fill="#e8f1e6"/>
+<path transform="matrix(1,0,0,-1,0,841.89)" d="M 70.866 270.279 L 524.223 270.279 L 524.223 247.33399 L 70.866 247.33399 Z " fill="#fef8e9"/>
+<path transform="matrix(1,0,0,-1,70.8661,107.341739)" stroke-width=".75" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#404041" d="M 0 0 L 76.519 0 "/>
+<path transform="matrix(1,0,0,-1,147.3852,107.341739)" stroke-width=".75" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#404041" d="M 0 0 L 103.008 0 "/>
+<path transform="matrix(1,0,0,-1,250.3937,107.341739)" stroke-width=".75" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#404041" d="M 0 0 L 130.866 0 "/>
+<path transform="matrix(1,0,0,-1,381.2598,107.341739)" stroke-width=".75" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#404041" d="M 0 0 L 142.963 0 "/>
+<path transform="matrix(1,0,0,-1,70.8661,193.11621)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 76.519 0 "/>
+<path transform="matrix(1,0,0,-1,147.3852,193.11621)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 103.008 0 "/>
+<path transform="matrix(1,0,0,-1,250.3937,193.11621)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 130.866 0 "/>
+<path transform="matrix(1,0,0,-1,381.2598,193.11621)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 142.963 0 "/>
+<path transform="matrix(1,0,0,-1,70.8661,224.65753)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 76.519 0 "/>
+<path transform="matrix(1,0,0,-1,147.3852,224.65753)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 103.008 0 "/>
+<path transform="matrix(1,0,0,-1,250.3937,224.65753)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 130.866 0 "/>
+<path transform="matrix(1,0,0,-1,381.2598,224.65753)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 142.963 0 "/>
+<path transform="matrix(1,0,0,-1,70.8661,256.19874)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 76.519 0 "/>
+<path transform="matrix(1,0,0,-1,147.3852,256.19874)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 103.008 0 "/>
+<path transform="matrix(1,0,0,-1,250.3937,256.19874)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 130.866 0 "/>
+<path transform="matrix(1,0,0,-1,381.2598,256.19874)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 142.963 0 "/>
+<path transform="matrix(1,0,0,-1,70.8661,287.73994)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 76.519 0 "/>
+<path transform="matrix(1,0,0,-1,147.3852,287.73994)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 103.008 0 "/>
+<path transform="matrix(1,0,0,-1,250.3937,287.73994)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 130.866 0 "/>
+<path transform="matrix(1,0,0,-1,381.2598,287.73994)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 142.963 0 "/>
+<path transform="matrix(1,0,0,-1,70.8661,319.28114)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 76.519 0 "/>
+<path transform="matrix(1,0,0,-1,147.3852,319.28114)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 103.008 0 "/>
+<path transform="matrix(1,0,0,-1,250.3937,319.28114)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 130.866 0 "/>
+<path transform="matrix(1,0,0,-1,381.2598,319.28114)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 142.963 0 "/>
+<path transform="matrix(1,0,0,-1,70.8661,350.82234)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 76.519 0 "/>
+<path transform="matrix(1,0,0,-1,147.3852,350.82234)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 103.008 0 "/>
+<path transform="matrix(1,0,0,-1,250.3937,350.82234)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 130.866 0 "/>
+<path transform="matrix(1,0,0,-1,381.2598,350.82234)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 142.963 0 "/>
+<path transform="matrix(1,0,0,-1,70.8661,382.36363)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 76.519 0 "/>
+<path transform="matrix(1,0,0,-1,147.3852,382.36363)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 103.008 0 "/>
+<path transform="matrix(1,0,0,-1,250.3937,382.36363)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 130.866 0 "/>
+<path transform="matrix(1,0,0,-1,381.2598,382.36363)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 142.963 0 "/>
+<path transform="matrix(1,0,0,-1,70.8661,413.90483)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 76.519 0 "/>
+<path transform="matrix(1,0,0,-1,147.3852,413.90483)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 103.008 0 "/>
+<path transform="matrix(1,0,0,-1,250.3937,413.90483)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 130.866 0 "/>
+<path transform="matrix(1,0,0,-1,381.2598,413.90483)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 142.963 0 "/>
+<path transform="matrix(1,0,0,-1,70.8661,445.446)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 76.519 0 "/>
+<path transform="matrix(1,0,0,-1,147.3852,445.446)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 103.008 0 "/>
+<path transform="matrix(1,0,0,-1,250.3937,445.446)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 130.866 0 "/>
+<path transform="matrix(1,0,0,-1,381.2598,445.446)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 142.963 0 "/>
+<path transform="matrix(1,0,0,-1,70.8661,476.9872)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 76.519 0 "/>
+<path transform="matrix(1,0,0,-1,147.3852,476.9872)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 103.008 0 "/>
+<path transform="matrix(1,0,0,-1,250.3937,476.9872)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 130.866 0 "/>
+<path transform="matrix(1,0,0,-1,381.2598,476.9872)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 142.963 0 "/>
+<path transform="matrix(1,0,0,-1,70.8661,508.5285)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 76.519 0 "/>
+<path transform="matrix(1,0,0,-1,147.3852,508.5285)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 103.008 0 "/>
+<path transform="matrix(1,0,0,-1,250.3937,508.5285)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 130.866 0 "/>
+<path transform="matrix(1,0,0,-1,381.2598,508.5285)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 142.963 0 "/>
+<path transform="matrix(1,0,0,-1,70.8661,540.0697)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 76.519 0 "/>
+<path transform="matrix(1,0,0,-1,147.3852,540.0697)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 103.008 0 "/>
+<path transform="matrix(1,0,0,-1,250.3937,540.0697)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 130.866 0 "/>
+<path transform="matrix(1,0,0,-1,381.2598,540.0697)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1fa249" d="M 0 0 L 142.963 0 "/>
+<path transform="matrix(1,0,0,-1,70.8661,626.0967)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#f1bc20" d="M 0 0 L 76.519 0 "/>
+<path transform="matrix(1,0,0,-1,147.3852,626.0967)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#f1bc20" d="M 0 0 L 103.008 0 "/>
+<path transform="matrix(1,0,0,-1,250.3937,626.0967)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#f1bc20" d="M 0 0 L 130.866 0 "/>
+<path transform="matrix(1,0,0,-1,381.2598,626.0967)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#f1bc20" d="M 0 0 L 142.963 0 "/>
+<path transform="matrix(1,0,0,-1,70.8661,654.98538)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#f1bc20" d="M 0 0 L 76.519 0 "/>
+<path transform="matrix(1,0,0,-1,147.3852,654.98538)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#f1bc20" d="M 0 0 L 103.008 0 "/>
+<path transform="matrix(1,0,0,-1,250.3937,654.98538)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#f1bc20" d="M 0 0 L 130.866 0 "/>
+<path transform="matrix(1,0,0,-1,381.2598,654.98538)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#f1bc20" d="M 0 0 L 142.963 0 "/>
+<path transform="matrix(1,0,0,-1,70.8661,686.5265)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#f1bc20" d="M 0 0 L 76.519 0 "/>
+<path transform="matrix(1,0,0,-1,147.3852,686.5265)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#f1bc20" d="M 0 0 L 103.008 0 "/>
+<path transform="matrix(1,0,0,-1,250.3937,686.5265)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#f1bc20" d="M 0 0 L 130.866 0 "/>
+<path transform="matrix(1,0,0,-1,381.2598,686.5265)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#f1bc20" d="M 0 0 L 142.963 0 "/>
+<path transform="matrix(1,0,0,-1,70.8661,715.4151)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#f1bc20" d="M 0 0 L 76.519 0 "/>
+<path transform="matrix(1,0,0,-1,147.3852,715.4151)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#f1bc20" d="M 0 0 L 103.008 0 "/>
+<path transform="matrix(1,0,0,-1,250.3937,715.4151)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#f1bc20" d="M 0 0 L 130.866 0 "/>
+<path transform="matrix(1,0,0,-1,381.2598,715.4151)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#f1bc20" d="M 0 0 L 142.963 0 "/>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+<text fill="#939598" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="12" font-family="Roboto" font-weight="bold"><tspan y="-748.286" x="74.8661 81.4793 88.2761 94.646907 101.442508 108.2333 114.6473 118.30648 122.0477 128.8229 135.1829 139.7321 143.7257 150.0017 152.9897 156.4973 163.29291 170.03691 173.22171 179.62252 186.06652 190.0529 196.8305 201.0137 207.3725 211.5965">Egendefinerte Indikatorer </tspan></text>
+<text fill="#939598" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="10" font-family="Roboto" font-weight="bold"><tspan y="-714.6527" x="76.5354 81.6354 87.012409 95.73941 153.05539 156.06439 161.8064 167.5064 170.23639 175.65139 181.09838 184.50637 190.23336 193.80236 199.17835 256.06538 262.32038 265.07038 270.80738 276.03739 278.5274 282.1004 287.5754 293.33143 299.07743 304.8044 308.66743 386.93537 393.52238 397.09538 402.37538 407.58937 413.30436 416.03236 421.07234">TemaIndikatorerSide rapportKravniv&#x00e5;</tspan></text>
+</g>
+<g id="Layer-1" data-name="Span">
+<text fill="#1fa249" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-688.0985" x="76.5354 84.4311 87.0951 92.3376 97.4253">MILJ&#x00d8;</tspan></text>
+</g>
+<text fill="#231f20" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-661.17056" x="153.0534 158.11949 163.18109 167.9061 170.90039 175.91339 177.9717 180.76619 185.8458 189.02008 194.07358 197.25687 202.29508">Energiforbruk</tspan></text>
+<path transform="matrix(1,0,0,-1,295.7252,181.3797)" stroke-width=".439" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1e5e9e" d="M 0 0 L 10.053 0 "/>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+<text fill="#231f20" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-661.1694" x="256.063 263.83 265.83879 267.83677 270.00666 275.02055 277.20756 281.74357 283.83335 288.90126 293.53627">Milj&#x00f8; side </tspan></text>
+</g>
+<g id="Layer-1" data-name="Span">
+<text fill="#1e5e9e" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-661.1694" x="295.72599 300.66429">21</tspan></text>
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#231f20" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-666.5694" x="386.93199 393.08799 396.11198 400.98817 403.93476 408.79298 413.8303 418.8253 420.84129 425.74449 430.1446 434.69859 436.8856 438.90159 444.00099 449.00498 451.02098 455.51289 460.30809 463.06208 468.14259 471.16658 473.35359 475.92759">Gratanglaks indikator - </tspan><tspan y="-655.7694" x="386.93199 392.20149 396.85359 401.45979 406.16499 411.1312 414.0292 416.0389 418.0639 423.1345 428.2006 432.87788 435.7642 440.37937 443.12797 447.84306 455.83235">Vesentlighetstema</tspan><tspan y="-629.6244" x="153.05799 158.12409 163.18569 167.89179 170.90409 175.91709 177.92678 179.96797 184.93328 187.67827 192.38347 197.36676 201.93247 204.03755 206.78255 211.46076">Energiintensitet</tspan></text>
+<path transform="matrix(1,0,0,-1,295.7252,212.92102)" stroke-width=".439" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1e5e9e" d="M 0 0 L 10.322 0 "/>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+<text fill="#231f20" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-629.6282" x="256.063 263.83 265.83879 267.83677 270.00666 275.02055 277.20756 281.74357 283.83335 288.90126 293.53627">Milj&#x00f8; side </tspan></text>
+</g>
+<g id="Layer-1" data-name="Span">
+<text fill="#1e5e9e" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-629.6282" x="295.72599 300.93339">22</tspan></text>
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#231f20" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-635.0282" x="386.93199 393.08799 396.11198 400.98817 403.93476 408.79298 413.8303 418.8253 420.84129 425.74449 430.1446 434.69859 436.8856 438.90159 444.00099 449.00498 451.02098 455.51289 460.30809 463.06208 468.14259 471.16658 473.35359 475.92759">Gratanglaks indikator - </tspan><tspan y="-624.2282" x="386.93199 392.20149 396.85359 401.45979 406.16499 411.1312 414.0292 416.0389 418.0639 423.1345 428.2006 432.87788 435.7642 440.37937 443.12797 447.84306 455.83235">Vesentlighetstema</tspan><tspan y="-598.0832" x="153.05799 158.78199 164.02629 172.03989 180.02289 182.06319 187.10138">R&#x00f8;mming</tspan></text>
+<path transform="matrix(1,0,0,-1,295.7252,244.46222)" stroke-width=".439" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1e5e9e" d="M 0 0 L 10.318 0 "/>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+<text fill="#231f20" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-598.087" x="256.063 263.83 265.83879 267.83677 270.00666 275.02055 277.20756 281.74357 283.83335 288.90126 293.53627">Milj&#x00f8; side </tspan></text>
+</g>
+<g id="Layer-1" data-name="Span">
+<text fill="#1e5e9e" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-598.087" x="295.72599 300.92799">23</tspan></text>
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#231f20" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-603.487" x="386.93199 393.08799 396.11198 400.98817 403.93476 408.79298 413.8303 418.8253 420.84129 425.74449 430.1446 434.69859 436.8856 438.90159 444.00099 449.00498 451.02098 455.51289 460.30809 463.06208 468.14259 471.16658 473.35359 475.92759">Gratanglaks indikator - </tspan><tspan y="-592.687" x="386.93199 392.20149 396.85359 401.45979 406.16499 411.1312 414.0292 416.0389 418.0639 423.1345 428.2006 432.87788 435.7642 440.37937 443.12797 447.84306 455.83235">Vesentlighetstema</tspan><tspan y="-566.542" x="153.05799 159.22388 164.32958 169.33358 171.31357 173.39437 178.43796 183.50406 188.18137">D&#x00f8;dlighet</tspan></text>
+<path transform="matrix(1,0,0,-1,295.7252,276.00355)" stroke-width=".439" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1e5e9e" d="M 0 0 L 10.318 0 "/>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+<text fill="#231f20" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-566.5457" x="256.063 263.83 265.83879 267.83677 270.00666 275.02055 277.20756 281.74357 283.83335 288.90126 293.53627">Milj&#x00f8; side </tspan></text>
+</g>
+<g id="Layer-1" data-name="Span">
+<text fill="#1e5e9e" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-566.5457" x="295.72599 300.92799">23</tspan></text>
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#231f20" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-571.94577" x="386.93199 393.08799 396.11198 400.98817 403.93476 408.79298 413.8303 418.8253 420.84129 425.74449 430.1446 434.69859 436.8856 438.90159 444.00099 449.00498 451.02098 455.51289 460.30809 463.06208 468.14259 471.16658 473.35359 475.92759">Gratanglaks indikator - </tspan><tspan y="-561.14578" x="386.93199 392.20149 396.85359 401.45979 406.16499 411.1312 414.0292 416.0389 418.0639 423.1345 428.2006 432.87788 435.7642 440.37937 443.12797 447.84306 455.83235">Vesentlighetstema</tspan><tspan y="-535.00076" x="153.05799 158.07009 163.14969 166.52918 169.37497 174.23317 178.95996 181.71306 186.79357">F&#x00f4;rfaktor</tspan></text>
+<path transform="matrix(1,0,0,-1,295.7252,307.54475)" stroke-width=".439" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1e5e9e" d="M 0 0 L 10.262 0 "/>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+<text fill="#231f20" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-535.0045" x="256.063 263.83 265.83879 267.83677 270.00666 275.02055 277.20756 281.74357 283.83335 288.90126 293.53627">Milj&#x00f8; side </tspan></text>
+</g>
+<g id="Layer-1" data-name="Span">
+<text fill="#1e5e9e" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-535.0045" x="295.72599 300.874">24</tspan></text>
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#231f20" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-540.40457" x="386.93199 393.08799 396.11198 400.98817 403.93476 408.79298 413.8303 418.8253 420.84129 425.74449 430.1446 434.69859 436.8856 438.90159 444.00099 449.00498 451.02098 455.51289 460.30809 463.06208 468.14259 471.16658 473.35359 475.92759">Gratanglaks indikator - </tspan><tspan y="-529.60458" x="386.93199 392.20149 396.85359 401.45979 406.16499 411.1312 414.0292 416.0389 418.0639 423.1345 428.2006 432.87788 435.7642 440.37937 443.12797 447.84306 455.83235">Vesentlighetstema</tspan><tspan y="-503.45957" x="153.05799 158.74239 161.75469 166.39418 171.21909 173.27649 176.1565 181.14609 184.32039 189.37389 192.55719 197.59539">Arealforbruk</tspan></text>
+<path transform="matrix(1,0,0,-1,295.7252,339.0859)" stroke-width=".439" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1e5e9e" d="M 0 0 L 10.27 0 "/>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+<text fill="#231f20" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-503.4633" x="256.063 263.83 265.83879 267.83677 270.00666 275.02055 277.20756 281.74357 283.83335 288.90126 293.53627">Milj&#x00f8; side </tspan></text>
+</g>
+<g id="Layer-1" data-name="Span">
+<text fill="#1e5e9e" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-503.4633" x="295.72599 300.8812">25</tspan></text>
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#231f20" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-508.86329" x="386.93199 393.08799 396.11198 400.98817 403.93476 408.79298 413.8303 418.8253 420.84129 425.74449 430.1446 434.69859 436.8856 438.90159 444.00099 449.00498 451.02098 455.51289 460.30809 463.06208 468.14259 471.16658 473.35359 475.92759">Gratanglaks indikator - </tspan><tspan y="-498.0633" x="386.93199 392.20149 396.85359 401.45979 406.16499 411.1312 414.0292 416.0389 418.0639 423.1345 428.2006 432.87788 435.7642 440.37937 443.12797 447.84306 455.83235">Vesentlighetstema</tspan><tspan y="-471.9183" x="153.05799 158.71808 161.74208 166.64528 171.19478 175.71459 177.7963 182.5123 187.5622 192.55719 194.5732 199.65549">Brakklegging</tspan></text>
+<path transform="matrix(1,0,0,-1,295.7252,370.6271)" stroke-width=".439" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1e5e9e" d="M 0 0 L 10.27 0 "/>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+<text fill="#231f20" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-471.9221" x="256.063 263.83 265.83879 267.83677 270.00666 275.02055 277.20756 281.74357 283.83335 288.90126 293.53627">Milj&#x00f8; side </tspan></text>
+</g>
+<g id="Layer-1" data-name="Span">
+<text fill="#1e5e9e" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-471.9221" x="295.72599 300.8812">25</tspan></text>
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#231f20" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-477.32209" x="386.93199 393.08799 396.11198 400.98817 403.93476 408.79298 413.8303 418.8253 420.84129 425.74449 430.1446 434.69859 436.8856 438.90159 444.00099 449.00498 451.02098 455.51289 460.30809 463.06208 468.14259 471.16658 473.35359 475.92759">Gratanglaks indikator - </tspan><tspan y="-466.5221" x="386.93199 392.20149 396.85359 401.45979 406.16499 411.1312 414.0292 416.0389 418.0639 423.1345 428.2006 432.87788 435.7642 440.37937 443.12797 447.84306 455.83235">Vesentlighetstema</tspan><tspan y="-440.3771" x="153.05799 158.74239 163.70769 166.6111 168.6271 173.6851 175.7785 180.7195 183.62291 185.63892 190.13082">Antibiotika</tspan></text>
+<path transform="matrix(1,0,0,-1,295.7252,402.16844)" stroke-width=".439" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1e5e9e" d="M 0 0 L 10.249 0 "/>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+<text fill="#231f20" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-440.3808" x="256.063 263.83 265.83879 267.83677 270.00666 275.02055 277.20756 281.74357 283.83335 288.90126 293.53627">Milj&#x00f8; side </tspan></text>
+</g>
+<g id="Layer-1" data-name="Span">
+<text fill="#1e5e9e" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-440.3808" x="295.72599 300.856">26</tspan></text>
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#231f20" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-445.7808" x="386.93199 393.08799 396.11198 400.98817 403.93476 408.79298 413.8303 418.8253 420.84129 425.74449 430.1446 434.69859 436.8856 438.90159 444.00099 449.00498 451.02098 455.51289 460.30809 463.06208 468.14259 471.16658 473.35359 475.92759">Gratanglaks indikator - </tspan><tspan y="-434.9808" x="386.93199 392.20149 396.85359 401.45979 406.16499 411.1312 414.0292 416.0389 418.0639 423.1345 428.2006 432.87788 435.7642 440.37937 443.12797 447.84306 455.83235">Vesentlighetstema</tspan><tspan y="-408.83583" x="153.05799 158.33199 163.19019 167.59027 172.15598 174.19628 179.21288 184.00087 188.56928 190.71219 195.7927">Vaksinasjon</tspan></text>
+<path transform="matrix(1,0,0,-1,295.7252,433.70964)" stroke-width=".439" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1e5e9e" d="M 0 0 L 10.249 0 "/>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+<text fill="#231f20" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-408.8396" x="256.063 263.83 265.83879 267.83677 270.00666 275.02055 277.20756 281.74357 283.83335 288.90126 293.53627">Milj&#x00f8; side </tspan></text>
+</g>
+<g id="Layer-1" data-name="Span">
+<text fill="#1e5e9e" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-408.8396" x="295.72599 300.856">26</tspan></text>
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#231f20" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-414.2396" x="386.93199 393.08799 396.11198 400.98817 403.93476 408.79298 413.8303 418.8253 420.84129 425.74449 430.1446 434.69859 436.8856 438.90159 444.00099 449.00498 451.02098 455.51289 460.30809 463.06208 468.14259 471.16658 473.35359 475.92759">Gratanglaks indikator - </tspan><tspan y="-403.4396" x="386.93199 392.20149 396.85359 401.45979 406.16499 411.1312 414.0292 416.0389 418.0639 423.1345 428.2006 432.87788 435.7642 440.37937 443.12797 447.84306 455.83235">Vesentlighetstema</tspan><tspan y="-377.29463" x="153.05799 158.15558 163.01378 167.41388 172.02008 176.69109 178.70709 183.64809">Lakselus</tspan></text>
+<path transform="matrix(1,0,0,-1,295.7252,465.25083)" stroke-width=".439" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1e5e9e" d="M 0 0 L 10.28 0 "/>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+<text fill="#231f20" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-377.2984" x="256.063 263.83 265.83879 267.83677 270.00666 275.02055 277.20756 281.74357 283.83335 288.90126 293.53627">Milj&#x00f8; side </tspan></text>
+</g>
+<g id="Layer-1" data-name="Span">
+<text fill="#1e5e9e" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-377.2984" x="295.72599 300.89198">27</tspan></text>
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#231f20" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-382.6984" x="386.93199 393.08799 396.11198 400.98817 403.93476 408.79298 413.8303 418.8253 420.84129 425.74449 430.1446 434.69859 436.8856 438.90159 444.00099 449.00498 451.02098 455.51289 460.30809 463.06208 468.14259 471.16658 473.35359 475.92759">Gratanglaks indikator - </tspan><tspan y="-371.8984" x="386.93199 392.20149 396.85359 401.45979 406.16499 411.1312 414.0292 416.0389 418.0639 423.1345 428.2006 432.87788 435.7642 440.37937 443.12797 447.84306 455.83235">Vesentlighetstema</tspan><tspan y="-345.75343" x="153.05799 158.73699 160.86818 165.58238 173.56269 175.57869 180.07059 184.89459 186.9034 188.9851 193.6903 198.7438 201.92711 206.9653">Kjemikaliebruk</tspan></text>
+<path transform="matrix(1,0,0,-1,295.7252,496.79203)" stroke-width=".439" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1e5e9e" d="M 0 0 L 10.335 0 "/>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+<text fill="#231f20" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-345.7571" x="256.063 263.83 265.83879 267.83677 270.00666 275.02055 277.20756 281.74357 283.83335 288.90126 293.53627">Milj&#x00f8; side </tspan></text>
+</g>
+<g id="Layer-1" data-name="Span">
+<text fill="#1e5e9e" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-345.7571" x="295.72599 300.94599">28</tspan></text>
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#231f20" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-351.1571" x="386.93199 393.08799 396.11198 400.98817 403.93476 408.79298 413.8303 418.8253 420.84129 425.74449 430.1446 434.69859 436.8856 438.90159 444.00099 449.00498 451.02098 455.51289 460.30809 463.06208 468.14259 471.16658 473.35359 475.92759">Gratanglaks indikator - </tspan><tspan y="-340.35713" x="386.93199 392.20149 396.85359 401.45979 406.16499 411.1312 414.0292 416.0389 418.0639 423.1345 428.2006 432.87788 435.7642 440.37937 443.12797 447.84306 455.83235">Vesentlighetstema</tspan><tspan y="-314.21214" x="153.05799 158.33199 163.19019 168.15819 173.1487 175.94319 181.0228 184.198 189.2506 192.43389 197.40189">Vannforbruk</tspan></text>
+<path transform="matrix(1,0,0,-1,295.7252,528.3333)" stroke-width=".439" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1e5e9e" d="M 0 0 L 10.335 0 "/>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+<text fill="#231f20" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-314.2159" x="256.063 263.83 265.83879 267.83677 270.00666 275.02055 277.20756 281.74357 283.83335 288.90126 293.53627">Milj&#x00f8; side </tspan></text>
+</g>
+<g id="Layer-1" data-name="Span">
+<text fill="#1e5e9e" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-314.2159" x="295.72599 300.94599">28</tspan></text>
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#231f20" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-319.6159" x="386.93199 393.08799 396.11198 400.98817 403.93476 408.79298 413.8303 418.8253 420.84129 425.74449 430.1446 434.69859 436.8856 438.90159 444.00099 449.00498 451.02098 455.51289 460.30809 463.06208 468.14259 471.16658 473.35359 475.92759">Gratanglaks indikator - </tspan><tspan y="-308.81593" x="386.93199 392.20149 396.85359 401.45979 406.16499 411.1312 414.0292 416.0389 418.0639 423.1345 428.2006 432.87788 435.7642 440.37937 443.12797 447.84306 455.83235">Vesentlighetstema</tspan><tspan y="-282.67094" x="153.05799 158.69379 163.66179 168.62979 173.79039 178.75839 183.8767 188.9437 193.6489 196.75659 201.33759 206.44689 210.71558 215.38657 217.39627 221.97727 226.70946">Bunnunders&#x00f8;kelser</tspan></text>
+<path transform="matrix(1,0,0,-1,295.7252,559.8745)" stroke-width=".439" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1e5e9e" d="M 0 0 L 10.326 0 "/>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+<text fill="#231f20" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-282.6747" x="256.063 263.83 265.83879 267.83677 270.00666 275.02055 277.20756 281.74357 283.83335 288.90126 293.53627">Milj&#x00f8; side </tspan></text>
+</g>
+<g id="Layer-1" data-name="Span">
+<text fill="#1e5e9e" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-282.6747" x="295.72599 300.93699">29</tspan></text>
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+<text fill="#231f20" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-288.0747" x="386.93199 393.08799 396.11198 400.98817 403.93476 408.79298 413.8303 418.8253 420.84129 425.74449 430.1446 434.69859 436.8856 438.90159 444.00099 449.00498 451.02098 455.51289 460.30809 463.06208 468.14259 471.16658 473.35359 475.92759">Gratanglaks indikator - </tspan><tspan y="-277.27473" x="386.93199 392.20149 396.85359 401.45979 406.16499 411.1312 414.0292 416.0389 418.0639 423.1345 428.2006 432.87788 435.7642 440.37937 443.12797 447.84306 455.83235">Vesentlighetstema</tspan></text>
+</g>
+<g id="Layer-1" data-name="Span">
+<text fill="#f1bc20" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-255.43172" x="76.53998 82.19198 88.46497 94.072879 96.79897 102.69937 107.80507 112.78837 115.02937 120.03877 126.32077 132.15097 138.61928 144.90128 150.00609">SOSIALE FORHOLD</tspan></text>
+</g>
+<text fill="#231f20" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-228.18872" x="153.05799 158.74239 163.72478 168.36069 173.15589 176.31578 179.06078">Ansatte</tspan></text>
+<path transform="matrix(1,0,0,-1,338.1643,614.36038)" stroke-width=".439" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1e5e9e" d="M 0 0 L 10.301 0 "/>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+<text fill="#231f20" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-228.1888" x="256.063 261.6403 266.6803 271.2451 273.26109 278.1121 280.19288 284.8459 287.0329 289.8076 294.8881 298.06239 303.14109 308.1991 310.2619 315.2659 317.4529 322.0258 324.08949 329.15647 333.80949 335.9965">Sosiale forhold side  </tspan></text>
+</g>
+<g id="Layer-1" data-name="Span">
+<text fill="#1e5e9e" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-228.1888" x="338.16099 343.34498">32</tspan></text>
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#231f20" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-233.58879" x="386.92298 393.07899 396.10298 400.97917 403.92576 408.78398 413.8213 418.81629 420.83229 425.73548 430.1356 434.68959 436.8766 438.89259 443.99198 448.99598 451.01197 455.50389 460.29908 463.05308 468.13359 471.15757 473.34458 475.91859">Gratanglaks indikator - </tspan><tspan y="-222.78879" x="386.92298 392.19248 396.84458 401.45079 406.15599 411.1222 414.0202 416.0299 418.0549 423.1255 428.1916 432.86888 435.7552 440.37037 443.11897 447.83406 455.82334">Vesentlighetstema</tspan><tspan y="-197.97579" x="153.04898 157.73798 163.03627 168.07266">L&#x00f8;nn</tspan></text>
+<path transform="matrix(1,0,0,-1,335.9758,644.5752)" stroke-width=".439" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1e5e9e" d="M 0 0 L 10.365 0 "/>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+<text fill="#231f20" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-197.974" x="256.063 261.6403 266.6803 271.2451 273.26109 278.1121 280.19288 284.8459 287.0329 289.8076 294.8881 298.06239 303.14109 308.1991 310.2619 315.2659 317.4529 322.0258 324.08949 329.15647 333.80949">Sosiale forhold side </tspan></text>
+</g>
+<g id="Layer-1" data-name="Span">
+<text fill="#1e5e9e" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-197.974" x="335.974 341.221">33</tspan></text>
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#231f20" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-203.374" x="386.923 393.079 396.103 400.9792 403.92579 408.784 413.82133 418.8163 420.8323 425.7355 430.13563 434.6896 436.87663 438.8926 443.992 448.996 451.012 455.5039 460.2991 463.0531 468.1336 471.1576 473.3446 475.9186">Gratanglaks indikator - </tspan><tspan y="-192.57399" x="386.923 392.1925 396.8446 401.4508 406.156 411.12223 414.02024 416.02995 418.05494 423.12553 428.19163 432.8689 435.75523 440.3704 443.119 447.83409 455.82337">Vesentlighetstema</tspan><tspan y="-167.76099" x="153.04901 159.1708 164.25312 169.2364 173.8354 178.10411 182.82822 187.88622 192.52661 194.71361 199.7086 204.48671 209.5321 214.5901 219.27011 221.28072 225.88872 230.59572">U&#x00f8;nskede hendelser</tspan></text>
+<path transform="matrix(1,0,0,-1,335.9758,674.7901)" stroke-width=".439" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1e5e9e" d="M 0 0 L 10.455 0 "/>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+<text fill="#231f20" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-167.759" x="256.063 261.6403 266.6803 271.2451 273.26109 278.1121 280.19288 284.8459 287.0329 289.8076 294.8881 298.06239 303.14109 308.1991 310.2619 315.2659 317.4529 322.0258 324.08949 329.15647 333.80949">Sosiale forhold side </tspan></text>
+</g>
+<g id="Layer-1" data-name="Span">
+<text fill="#1e5e9e" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-167.759" x="335.974 341.311">34</tspan></text>
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#231f20" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-173.159" x="386.923 393.079 396.103 400.9792 403.92579 408.784 413.82133 418.8163 420.8323 425.7355 430.13563 434.6896 436.87663 438.8926 443.992 448.996 451.012 455.5039 460.2991 463.0531 468.1336 471.1576 473.3446 475.9186">Gratanglaks indikator - </tspan><tspan y="-162.359" x="386.923 392.1925 396.8446 401.4508 406.156 411.12223 414.02024 416.02995 418.05494 423.12553 428.19163 432.8689 435.75523 440.3704 443.119 447.83409 455.82337">Vesentlighetstema</tspan><tspan y="-137.54599" x="153.04901 158.72081 163.228 167.4958 172.1263 175.07831 178.10231 182.89122 187.21031 195.12761">Sykefrav&#x00e6;r</tspan></text>
+<path transform="matrix(1,0,0,-1,335.9758,705.005)" stroke-width=".439" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#1e5e9e" d="M 0 0 L 10.455 0 "/>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+<text fill="#231f20" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-137.5442" x="256.063 261.6403 266.6803 271.2451 273.26109 278.1121 280.19288 284.8459 287.0329 289.8076 294.8881 298.06239 303.14109 308.1991 310.2619 315.2659 317.4529 322.0258 324.08949 329.15647 333.80949">Sosiale forhold side </tspan></text>
+</g>
+<g id="Layer-1" data-name="Span">
+<text fill="#1e5e9e" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-137.5442" x="335.974 341.311">34</tspan></text>
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+<text fill="#231f20" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="9" font-family="Roboto"><tspan y="-142.9442" x="386.923 393.079 396.103 400.9792 403.92579 408.784 413.82133 418.8163 420.8323 425.7355 430.13563 434.6896 436.87663 438.8926 443.992 448.996 451.012 455.5039 460.2991 463.0531 468.1336 471.1576 473.3446 475.9186">Gratanglaks indikator - </tspan><tspan y="-132.1442" x="386.923 392.1925 396.8446 401.4508 406.156 411.12223 414.02024 416.02995 418.05494 423.12553 428.19163 432.8689 435.75523 440.3704 443.119 447.83409 455.82337">Vesentlighetstema</tspan></text>
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#404041" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="8" font-family="Roboto" font-weight="bold"><tspan y="-44.7402" x="70.8661 75.59409">92</tspan></text>
+<text fill="#404041" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="7" font-family="Roboto"><tspan y="-29.016" x="70.8661 74.80429 79.64129 83.669788 88.75878 93.58598 97.61448 101.63667 103.77727 108.866268 112.89476 117.50916 121.82397 125.69987 127.44287 129.58347 134.67247 139.47377 141.61437 146.50597 150.68427 154.91017 159.86338 164.46938 168.49788">EGENDEFINERTE INDIKATORER</tspan></text>
+<g id="Layer-1" data-name="Artifact">
+<clipPath id="cp759">
+<path transform="matrix(1,0,0,-1,0,841.89)" d="M 0 0 L 595.276 0 L 595.276 841.89 L 0 841.89 Z "/>
+</clipPath>
+<g clip-path="url(#cp759)">
+<path transform="matrix(1,0,0,-1,1119.685,802.3869)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#404041" d="M 0 0 L -1048.819 0 "/>
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#404041" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="5" font-family="Roboto" font-weight="bold"><tspan y="-805.9686" x="70.8661 74.1961 77.381099 80.3461 82.9486 86.1286 89.6586 92.9886 95.8126 98.9926 102.1776 105.26759 106.512599 109.6926">GRATANGLAKS AS</tspan></text>
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+<text fill="#595959" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="5" font-family="Roboto"><tspan y="-805.9686" x="119.143 122.428 127.273 130.52301 133.533 136.838 140.088 143.51799 146.50099 149.616 152.75099 156.00099 159.43099 162.75598 166.08098 169.69098 172.74448">B&#x00c6;REKRAFTSRAPPORT</tspan></text>
+</g>
+<text fill="#404041" xml:space="preserve" transform="matrix(1 0 -0 1 0 841.89)" font-size="5" font-family="Roboto" font-weight="bold"><tspan y="-805.9686" x="179.688 182.558 185.428 188.29799">2020</tspan></text>
+<g id="Layer-1" data-name="Artifact">
+<clipPath id="cp760">
+<path transform="matrix(1,0,0,-1,0,841.89)" d="M 0 0 L 595.276 0 L 595.276 841.89 L 0 841.89 Z "/>
+</clipPath>
+<g clip-path="url(#cp760)">
+<path transform="matrix(1,0,0,-1,70.8661,39.3869)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#404041" d="M 0 0 L 1048.819 0 "/>
+</g>
+</g>
+</g>
+</g>
+</svg>
