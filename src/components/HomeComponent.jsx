@@ -44,7 +44,7 @@ export const HomeComponent = () => {
             display: {
               xs: "none",
               sm: "none",
-              md: "none",
+              md: "flex",
               lg: "flex",
               xl: "flex",
             },
@@ -60,7 +60,7 @@ export const HomeComponent = () => {
             display: {
               xs: "flex",
               sm: "flex",
-              md: "flex",
+              md: "none",
               lg: "none",
               xl: "none",
             },

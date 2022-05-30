@@ -23,6 +23,7 @@ export const PdfViewDouble = () => {
     images.sort(collator.compare);
     return images;
   }
+
   const [page1, setPage1] = useState(1);
   const [page2, setPage2] = useState(2);
 
@@ -33,6 +34,12 @@ export const PdfViewDouble = () => {
   const handlebrowseBwd = () => {
     setPage1(page1 - 2);
     setPage2(page2 - 2);
+  };
+  const handlebrowseFwdMobile = () => {
+    setPage1(page1 + 1);
+  };
+  const handlebrowseBwdMobile = () => {
+    setPage1(page1 - 1);
   };
 
   return (
@@ -47,7 +54,7 @@ export const PdfViewDouble = () => {
             lg: "flex",
             xl: "flex",
           },
-
+          bgcolor: "rgba(255, 255, 255, 0.95)",
           borderRadius: 2,
         }}
       >
@@ -114,7 +121,7 @@ export const PdfViewDouble = () => {
           },
           width: "100vw",
           // height: "100vh",
-
+          bgcolor: "rgba(255, 255, 255, 0.95)",
           borderRadius: 2,
         }}
       >
@@ -128,9 +135,9 @@ export const PdfViewDouble = () => {
             sx={{ transition: "ease-in", transitionDuration: 2 }}
             image={pdf[page1 - 1]}
           />
-          {page1 !== 0 ? (
+          {page1 - 1 !== 0 ? (
             <Button
-              onClick={handlebrowseBwd}
+              onClick={handlebrowseBwdMobile}
               sx={{
                 position: "absolute",
                 bottom: "50%",
@@ -144,14 +151,14 @@ export const PdfViewDouble = () => {
               <ArrowBackIosIcon></ArrowBackIosIcon>
             </Button>
           ) : null}
-          {page2 !== pdf.length ? (
+          {page1 !== pdf.length ? (
             <Button
-              onClick={handlebrowseFwd}
+              onClick={handlebrowseFwdMobile}
               sx={{
                 position: "absolute",
                 bottom: "50%",
                 right: 0,
-                bgcolor: "rgba(0, 0, 0, 0.50)",
+                bgcolor: "rgba(0, 0, 0, 0.25)",
                 color: "white",
                 py: "10px",
                 borderRadius: "2px",

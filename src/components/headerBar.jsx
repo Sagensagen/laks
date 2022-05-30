@@ -69,7 +69,7 @@ export const HeaderBar = (props) => {
         position="fixed"
         sx={{
           backgroundColor: "#1c1c1c",
-          height: "5vh",
+          height: "6vh",
           display: "flex",
         }}
       >

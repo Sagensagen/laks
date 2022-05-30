@@ -85,22 +85,30 @@ export const FooterNavigation = () => {
               size="large"
               sx={{ color: "white" }}
               aria-label="Example"
+              href="https://www.instagram.com/gratanglaks/?hl=nb"
             >
-              <InstagramIcon sx={{ fontSize: 32 }}></InstagramIcon>
+              <InstagramIcon
+                sx={{ fontSize: 32, color: "text.primary" }}
+              ></InstagramIcon>
+            </IconButton>
+            <IconButton
+              size="large"
+              sx={{ color: "white" }}
+              aria-label="Example"
+              href="https://www.facebook.com/gratanglaks.as/"
+            >
+              <FacebookIcon
+                sx={{ fontSize: 32, color: "text.primary" }}
+              ></FacebookIcon>
             </IconButton>
             <IconButton
               size="large"
               sx={{ color: "white" }}
               aria-label="Example"
             >
-              <FacebookIcon sx={{ fontSize: 32 }}></FacebookIcon>
-            </IconButton>
-            <IconButton
-              size="large"
-              sx={{ color: "white" }}
-              aria-label="Example"
-            >
-              <NewspaperIcon sx={{ fontSize: 32 }}></NewspaperIcon>
+              <NewspaperIcon
+                sx={{ fontSize: 32, color: "text.primary" }}
+              ></NewspaperIcon>
             </IconButton>
           </Paper>
         </Grid>
