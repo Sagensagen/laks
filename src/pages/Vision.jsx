@@ -12,27 +12,26 @@ export const Vision = () => {
           display: "flex",
           position: "absolute",
           bgcolor: "rgba(0, 0, 0, 0.13)",
-          height: "60vh",
-          width: "100%",
+          height: "100vh",
         }}
         alignItems="center"
       >
         <Box
-          alignItems="center"
-          margin="auto"
+          // alignItems="center"
+          // margin="auto"
           display="flex"
           sx={{
-            width: "80%",
+            // width: "80%",
             zIndex: 1000,
           }}
         >
           <Paper
             sx={{
-              ml: "60%",
+              ml: "2rem",
               bgcolor: "rgba(0,0,0,0.0)",
               color: "text.secondary",
-              height: "60%",
-              width: "35%",
+              // height: "60%",
+              width: "50%",
             }}
             elevation={0}
           >
@@ -43,17 +42,20 @@ export const Vision = () => {
               ever since the 1500s, when an unknown printer took a galley of
               type and scrambled it to make a type specimen book. It has
               survived not only five centuries, but also the leap into
-              electronic typesetting, remaining essentially unchanged. It was
-              popularised in the 1960s with the release of Letraset sheets
-              containing Lorem Ipsum passages, and more recently with desktop
-              publishing software like Aldus PageMaker including versions of
-              Lorem Ipsum.
+              electronic typesetting, remaining essentially unchanged.
             </Typography>
           </Paper>
         </Box>
       </Box>
 
-      <Card sx={{ height: "60vh", zIndex: -1000 }}>
+      <Card
+        sx={{
+          display: "flex",
+          width: "100vw",
+          height: "100vh",
+          zIndex: -1000,
+        }}
+      >
         <CardMedia component="img" src={salmonimg}></CardMedia>
       </Card>
     </>

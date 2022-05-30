@@ -10,15 +10,27 @@ export const FooterNavigation = () => {
       position="relative"
       sx={{
         backgroundColor: "#1c1c1c",
-        width: "100%",
+
         margin: 0,
         bottom: 0,
-        height: "10rem",
+        // height: "10vh",
       }}
       alignContent="flex-end"
     >
       <Grid container spacing={0} sx={{ alignContent: "center" }}>
-        <Grid item xs={6} md={8}>
+        <Grid
+          item
+          sx={{
+            display: {
+              xs: "none",
+              sm: "none",
+              lg: "flex",
+              xl: "flex",
+            },
+          }}
+          xs={6}
+          md={8}
+        >
           <Grid container xs={12}>
             <Grid item xs={6}>
               <Paper

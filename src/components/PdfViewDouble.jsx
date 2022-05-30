@@ -36,58 +36,132 @@ export const PdfViewDouble = () => {
   };
 
   return (
-    <Card sx={{ display: "flex", borderRadius: 2 }}>
-      <Box
+    <>
+      {/* Desktop responsive */}
+      <Card
         sx={{
-          position: "relative",
-          transition: "ease-in",
-          transitionDuration: 2,
+          display: {
+            xs: "none",
+            sm: "none",
+            md: "none",
+            lg: "flex",
+            xl: "flex",
+          },
+
+          borderRadius: 2,
         }}
       >
-        <CardMedia
-          component="img"
-          sx={{ transition: "ease-in", transitionDuration: 2 }}
-          image={pdf[page1]}
-        />
-        {page1 !== 0 ? (
-          <Button
-            onClick={handlebrowseBwd}
-            sx={{
-              position: "absolute",
-              bottom: "50%",
-              left: 0,
-              bgcolor: "rgba(0, 0, 0, 0.25)",
-              color: "white",
-              py: "10px",
-              borderRadius: "2px",
-            }}
-          >
-            <ArrowBackIosIcon></ArrowBackIosIcon>
-          </Button>
-        ) : null}
-      </Box>
+        <Box
+          sx={{
+            position: "relative",
+          }}
+        >
+          <CardMedia
+            component="img"
+            sx={{ transition: "ease-in", transitionDuration: 2 }}
+            image={pdf[page1]}
+          />
+          {page1 !== 0 ? (
+            <Button
+              onClick={handlebrowseBwd}
+              sx={{
+                position: "absolute",
+                bottom: "50%",
+                left: 0,
+                bgcolor: "rgba(0, 0, 0, 0.25)",
+                color: "white",
+                py: "10px",
+                borderRadius: "2px",
+              }}
+            >
+              <ArrowBackIosIcon></ArrowBackIosIcon>
+            </Button>
+          ) : null}
+        </Box>
 
-      <Box sx={{ position: "relative", borderLeft: 0 }}>
-        <CardMedia component="img" image={pdf[page2]} />
+        <Box sx={{ position: "relative", borderLeft: 0 }}>
+          <CardMedia component="img" image={pdf[page2]} />
 
-        {page2 !== pdf.length ? (
-          <Button
-            onClick={handlebrowseFwd}
-            sx={{
-              position: "absolute",
-              bottom: "50%",
+          {page2 !== pdf.length ? (
+            <Button
+              onClick={handlebrowseFwd}
+              sx={{
+                position: "absolute",
+                bottom: "50%",
 
-              right: 0,
-              bgcolor: "rgba(0, 0, 0, 0.50)",
-              color: "white",
-              py: "10px",
-              borderRadius: "2px",
-            }}
-          >
-            <ArrowForwardIosIcon></ArrowForwardIosIcon>
-          </Button>
-        ) : null}
-      </Box>
-    </Card>
+                right: 0,
+                bgcolor: "rgba(0, 0, 0, 0.50)",
+                color: "white",
+                py: "10px",
+                borderRadius: "2px",
+              }}
+            >
+              <ArrowForwardIosIcon></ArrowForwardIosIcon>
+            </Button>
+          ) : null}
+        </Box>
+      </Card>
+
+      {/* mobile responsive */}
+      <Card
+        sx={{
+          display: {
+            xs: "flex",
+            sm: "flex",
+            md: "flex",
+            lg: "none",
+            xl: "none",
+          },
+          width: "100vw",
+          // height: "100vh",
+
+          borderRadius: 2,
+        }}
+      >
+        <Box
+          sx={{
+            position: "relative",
+          }}
+        >
+          <CardMedia
+            component="img"
+            sx={{ transition: "ease-in", transitionDuration: 2 }}
+            image={pdf[page1 - 1]}
+          />
+          {page1 !== 0 ? (
+            <Button
+              onClick={handlebrowseBwd}
+              sx={{
+                position: "absolute",
+                bottom: "50%",
+                left: 0,
+                bgcolor: "rgba(0, 0, 0, 0.25)",
+                color: "white",
+                py: "10px",
+                borderRadius: "2px",
+              }}
+            >
+              <ArrowBackIosIcon></ArrowBackIosIcon>
+            </Button>
+          ) : null}
+          {page2 !== pdf.length ? (
+            <Button
+              onClick={handlebrowseFwd}
+              sx={{
+                position: "absolute",
+                bottom: "50%",
+                right: 0,
+                bgcolor: "rgba(0, 0, 0, 0.50)",
+                color: "white",
+                py: "10px",
+                borderRadius: "2px",
+              }}
+            >
+              <ArrowForwardIosIcon></ArrowForwardIosIcon>
+            </Button>
+          ) : null}
+        </Box>
+      </Card>
+    </>
   );
 };

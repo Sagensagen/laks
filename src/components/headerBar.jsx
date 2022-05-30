@@ -7,7 +7,7 @@ import Button from "@mui/material/Button";
 import IconButton from "@mui/material/IconButton";
 import MenuIcon from "@mui/icons-material/Menu";
 import moloenLogo from "../media/moloenLogo.png";
-import { Menu, MenuItem } from "@mui/material";
+import { Menu, MenuItem, Link, Paper } from "@mui/material";
 
 export const HeaderBar = (props) => {
   const [anchorEl, setAnchorEl] = React.useState(null);
@@ -29,28 +29,6 @@ export const HeaderBar = (props) => {
     setMobileMoreAnchorEl(event.currentTarget);
   };
 
-  const menuId = "primary-search-account-menu";
-  const renderMenu = (
-    <Menu
-      anchorEl={anchorEl}
-      anchorOrigin={{
-        vertical: "top",
-        horizontal: "right",
-      }}
-      id={menuId}
-      keepMounted
-      transformOrigin={{
-        vertical: "top",
-        horizontal: "right",
-      }}
-      open={isMenuOpen}
-      onClose={handleMenuClose}
-    >
-      <MenuItem onClick={handleMenuClose}>Profile</MenuItem>
-      <MenuItem onClick={handleMenuClose}>My account</MenuItem>
-    </Menu>
-  );
-
   const mobileMenuId = "primary-search-account-menu-mobile";
   const renderMobileMenu = (
     <Menu
@@ -68,18 +46,20 @@ export const HeaderBar = (props) => {
       open={isMobileMenuOpen}
       onClose={handleMobileMenuClose}
     >
-      <MenuItem onClick={props.home}>
-        <p>Home</p>
-      </MenuItem>
-      <MenuItem onClick={props.vision}>
-        <p>Vision</p>
-      </MenuItem>
-      <MenuItem onClick={props.sustainability}>
-        <p>Sustainability</p>
-      </MenuItem>
-      <MenuItem onClick={props.contact}>
-        <p>Contact Us</p>
-      </MenuItem>
+      <Paper>
+        <MenuItem onClick={props.home} sx={{ bgcolor: "#2332d" }}>
+          <p>Home</p>
+        </MenuItem>
+        <MenuItem onClick={props.vision}>
+          <p>Vision</p>
+        </MenuItem>
+        <MenuItem onClick={props.sustainability}>
+          <p>Sustainability</p>
+        </MenuItem>
+        <MenuItem onClick={props.contact}>
+          <p>Contact Us</p>
+        </MenuItem>
+      </Paper>
     </Menu>
   );
   return (
@@ -94,13 +74,9 @@ export const HeaderBar = (props) => {
         }}
       >
         <Toolbar>
-          <img
-            src={moloenLogo}
-            alt="logo"
-            style={{
-              height: "50%",
-            }}
-          />
+          <a href="https://moloen.no/v4/">
+            <Box component="img" src={moloenLogo} width="5rem"></Box>
+          </a>
 
           <Box
             sx={{
@@ -118,28 +94,36 @@ export const HeaderBar = (props) => {
                 display: "block",
               }}
             >
-              <Typography variant="h6">Home</Typography>
+              <Typography variant="h6" gutterBottom>
+                Home
+              </Typography>
             </Button>
             <Button
               onClick={props.vision}
               // onClick={handleCloseNavMenu}
               sx={{ my: 2, display: "block" }}
             >
-              <Typography variant="h6">Vision</Typography>
+              <Typography variant="h6" gutterBottom>
+                Vision
+              </Typography>
             </Button>
             <Button
               onClick={props.sustainability}
               // onClick={handleCloseNavMenu}
               sx={{ my: 2, display: "block" }}
             >
-              <Typography variant="h6">Sustainability</Typography>
+              <Typography variant="h6" gutterBottom>
+                Sustainability
+              </Typography>
             </Button>
             <Button
               onClick={props.contact}
               // onClick={handleCloseNavMenu}
               sx={{ my: 2, display: "block" }}
             >
-              <Typography variant="h6">Contact us</Typography>
+              <Typography variant="h6" gutterBottom>
+                Contact us
+              </Typography>
             </Button>
           </Box>
           <Box
@@ -161,7 +145,6 @@ export const HeaderBar = (props) => {
         </Toolbar>
       </AppBar>
       {renderMobileMenu}
-      {renderMenu}
     </Box>
   );
 };

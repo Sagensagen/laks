@@ -8,11 +8,15 @@ import { Box, Card, CardMedia, Typography, Grid, Divider } from "@mui/material";
 const data = [
   {
     title: "Matvaretrygghet",
-    text: "  Vi i Gratanglaks er opptatt av at maten vi produserer skal væretrygg å spise. Den skal være sporbar fra egg til konsument. Vårproduksjon er underlagt strenge kontroller og grenseverdier.Biologiske og kjemiske stoffer i matvarer blir vurdert systematiskgjennom produksjonen. Vi er underlagt mange krav og forskriftersom går på mattrygghet. Mattilsynet tar jevnlig ut prøver som bliranalysert. Gratanglaks kjører sporingstester minst 2 ganger årligfor å kontrollere og sikre at sporing fungerer. Oppdrettsfiskenfår et fôr som er best mulig tilpasset dens behov for ernæring.Fôrprodusenter er veldig nøye med å velge ut råstoffer til sittfôr. De følger strenge regler og bestemmelser i forhold til hvilkefiskeslag som benyttes, samt at råstoffet skal komme frabærekraftige og kvote regulerte fiskerier. I henhold til norsk lovbruker ikke Gratanglaks genmodifiserte organismer i produksjon avlaks eller i fôr. Vil du vite mer om næringen? Besøk vårtvisningssenter, Blue Vision, på Kystens Hus i Tromsø!",
+    text: "  Vi i Gratanglaks er opptatt av at maten vi produserer skal væretrygg å spise. Den skal være sporbar fra egg til konsument. Vårproduksjon er underlagt strenge kontroller og grenseverdier.Biologiske og kjemiske stoffer i matvarer blir vurdert systematiskgjennom produksjonen. ",
   },
   {
     title: "Hvem er vi?",
-    text: "Gratanglaks er et lokaleid selskap som har produsert laks siden1984. Vår drift er i hovedsak lokalisert i Astafjorden ogVågsfjorden, med hovedkontor i Gratangen. Vårt mål er å drive enbærekraftig produksjon som sikrer god fiskevelferd, samtidig somvi skaper lokale og regionale ringvirkninger gjennomsysselsetting, vekst og nye prosjekter. Vi har i dag 8 konsesjonerhvor 1 av disse er visning og 2 er grønn, 2 ordinære og 3konsesjoner tilknyttet Seacalx. Lokalitetene våre ligger primært iGratangen og i Harstad kommune. Vi produserer rundt 7000 tonn laksårlig, med ca. 30 ansatte. Til tross for at vi er et lite selskapså har vi store visjoner og jobber kontinuerlig med utvikling ogforbedring. Vi har i samarbeid med flere oppdrettere i områdetbygd opp en helintegrert virksomhet fra smolt til slakt gjennomselskapene Astafjord Smolt, Håløy Havservice, Brønnbåt Nord ogAstafjord Slakteri. Les mer om selskapene her.",
+    text: "Gratanglaks er et lokaleid selskap som har produsert laks siden1984. Vår drift er i hovedsak lokalisert i Astafjorden ogVågsfjorden, med hovedkontor i Gratangen. Vårt mål er å drive enbærekraftig produksjon som sikrer god fiskevelferd, samtidig somvi skaper lokale og regionale ringvirkninger gjennomsysselsetting, vekst og nye prosjekter. Vi har i dag 8 konsesjonerhvor 1 av disse er visning og 2 er grønn, 2 ordinære og 3konsesjoner tilknyttet Seacalx.",
+  },
+  {
+    title: "Samfunn",
+    text: "Gratanglaks er opptatt av å gi tilbake til lokalsamfunn og bidra til vekst. Her kan du se videoer fra ulike områder av vår virksomhet, samt lese om våre samarbeidspartnere.",
   },
 ];
 
@@ -21,7 +25,7 @@ export const HomeComponent = () => {
   useEffect(() => {
     const gameStartInternal = setInterval(() => {
       setSlideIdx((t) => (t + 1) % data.length);
-    }, 10000);
+    }, 5000);
 
     return () => {
       clearInterval(gameStartInternal);
@@ -41,7 +45,7 @@ export const HomeComponent = () => {
               xs: "none",
               sm: "none",
               md: "none",
-              lg: "none",
+              lg: "flex",
               xl: "flex",
             },
           }}
@@ -57,9 +61,11 @@ export const HomeComponent = () => {
               xs: "flex",
               sm: "flex",
               md: "flex",
-              lg: "flex",
+              lg: "none",
               xl: "none",
             },
+            width: "100vw",
+            height: "100vh",
           }}
           component="img"
           src={wavesImg}
@@ -68,16 +74,20 @@ export const HomeComponent = () => {
       <Box
         sx={{
           display: "flex",
+          flexDirection: "column",
           position: "absolute",
           justifyContent: "center",
+          alignItems: "center",
           height: "100vh",
-          width: "100%",
+          width: "100vw",
           background: "linear-gradient(to bottom, transparent, #0c0c0c)",
         }}
       >
-        <Box position="absolute" mt="20%">
-          <Typography variant="h1">Gratang Laks?</Typography>
-          <Divider position="absolute" sx={{ bgcolor: "gray" }}></Divider>
+        <Box sx={{ alignContent: "center", mt: "10vh" }}>
+          <Typography variant="h1" component="h1">
+            Gratanglaks
+          </Typography>
+          <Divider sx={{ bgcolor: "gray" }}></Divider>
         </Box>
 
         <Grid
@@ -92,63 +102,26 @@ export const HomeComponent = () => {
               xs: "none",
               sm: "none",
               md: "none",
-              lg: "none",
+              lg: "flex",
               xl: "flex",
             },
             alignContent: "flex-end",
           }}
         >
           <Grid item xs={4} align="center">
-            <Typography variant="h4">Matvaretrygghet</Typography>
+            <Typography variant="h4">{data[0].title}</Typography>
             <Divider sx={{ bgcolor: "gray" }}></Divider>
-            <Typography variant="subtitle1">
-              Vi i Gratanglaks er opptatt av at maten vi produserer skal være
-              trygg å spise. Den skal være sporbar fra egg til konsument. Vår
-              produksjon er underlagt strenge kontroller og grenseverdier.
-              Biologiske og kjemiske stoffer i matvarer blir vurdert systematisk
-              gjennom produksjonen. Vi er underlagt mange krav og forskrifter
-              som går på mattrygghet. Mattilsynet tar jevnlig ut prøver som blir
-              analysert. Gratanglaks kjører sporingstester minst 2 ganger årlig
-              for å kontrollere og sikre at sporing fungerer. Oppdrettsfisken
-              får et fôr som er best mulig tilpasset dens behov for ernæring.
-              Fôrprodusenter er veldig nøye med å velge ut råstoffer til sitt
-              fôr. De følger strenge regler og bestemmelser i forhold til hvilke
-              fiskeslag som benyttes, samt at råstoffet skal komme fra
-              bærekraftige og kvote regulerte fiskerier. I henhold til norsk lov
-              bruker ikke Gratanglaks genmodifiserte organismer i produksjon av
-              laks eller i fôr. Vil du vite mer om næringen? Besøk vårt
-              visningssenter, Blue Vision, på Kystens Hus i Tromsø!
-            </Typography>
+            <Typography variant="subtitle1">{data[0].text}</Typography>
           </Grid>
           <Grid item xs={4} align="center">
-            <Typography variant="h4">Hvem er vi?</Typography>
+            <Typography variant="h4">{data[1].title}</Typography>
             <Divider sx={{ bgcolor: "gray" }}></Divider>
-            <Typography variant="subtitle1">
-              Gratanglaks er et lokaleid selskap som har produsert laks siden
-              1984. Vår drift er i hovedsak lokalisert i Astafjorden og
-              Vågsfjorden, med hovedkontor i Gratangen. Vårt mål er å drive en
-              bærekraftig produksjon som sikrer god fiskevelferd, samtidig som
-              vi skaper lokale og regionale ringvirkninger gjennom
-              sysselsetting, vekst og nye prosjekter. Vi har i dag 8 konsesjoner
-              hvor 1 av disse er visning og 2 er grønn, 2 ordinære og 3
-              konsesjoner tilknyttet Seacalx. Lokalitetene våre ligger primært i
-              Gratangen og i Harstad kommune. Vi produserer rundt 7000 tonn laks
-              årlig, med ca. 30 ansatte. Til tross for at vi er et lite selskap
-              så har vi store visjoner og jobber kontinuerlig med utvikling og
-              forbedring. Vi har i samarbeid med flere oppdrettere i området
-              bygd opp en helintegrert virksomhet fra smolt til slakt gjennom
-              selskapene Astafjord Smolt, Håløy Havservice, Brønnbåt Nord og
-              Astafjord Slakteri. Les mer om selskapene her.
-            </Typography>
+            <Typography variant="subtitle1">{data[1].text}</Typography>
           </Grid>
           <Grid item xs={4} align="center">
-            <Typography variant="h4">Samfunn</Typography>
+            <Typography variant="h4">{data[2].title}</Typography>
             <Divider sx={{ bgcolor: "gray" }}></Divider>
-            <Typography variant="subtitle1">
-              Gratanglaks er opptatt av å gi tilbake til lokalsamfunn og bidra
-              til vekst. Her kan du se videoer fra ulike områder av vår
-              virksomhet, samt lese om våre samarbeidspartnere.
-            </Typography>
+            <Typography variant="subtitle1">{data[2].text}</Typography>
           </Grid>
         </Grid>
         <Grid
@@ -163,7 +136,7 @@ export const HomeComponent = () => {
               xs: "flex",
               sm: "flex",
               md: "flex",
-              lg: "flex",
+              lg: "none",
               xl: "none",
             },
             alignContent: "flex-end",
