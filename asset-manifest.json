@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/laks/static/css/main.f895406e.css",
-    "main.js": "/laks/static/js/main.92fdd349.js",
+    "main.css": "/laks/static/css/main.db3861b2.css",
+    "main.js": "/laks/static/js/main.116fd0fa.js",
     "static/media/drone22.mp4": "/laks/static/media/drone22.cd64680a696e57613d0d.mp4",
     "static/media/dronefotage.mp4": "/laks/static/media/dronefotage.8c96c7b894ab3f8555cc.mp4",
     "static/media/Bærekraftsrapport 2020 Gratanglaks-3.svg": "/laks/static/media/Bærekraftsrapport 2020 Gratanglaks-3.048261608e77358ff0ba.svg",
@@ -101,11 +101,11 @@
     "static/media/Bærekraftsrapport 2020 Gratanglaks-86.svg": "/laks/static/media/Bærekraftsrapport 2020 Gratanglaks-86.a25e23b68982cfe2a85d.svg",
     "static/media/Bærekraftsrapport 2020 Gratanglaks-85.svg": "/laks/static/media/Bærekraftsrapport 2020 Gratanglaks-85.c0ddb8da1fa3cd5498c4.svg",
     "index.html": "/laks/index.html",
-    "main.f895406e.css.map": "/laks/static/css/main.f895406e.css.map",
-    "main.92fdd349.js.map": "/laks/static/js/main.92fdd349.js.map"
+    "main.db3861b2.css.map": "/laks/static/css/main.db3861b2.css.map",
+    "main.116fd0fa.js.map": "/laks/static/js/main.116fd0fa.js.map"
   },
   "entrypoints": [
-    "static/css/main.f895406e.css",
-    "static/js/main.92fdd349.js"
+    "static/css/main.db3861b2.css",
+    "static/js/main.116fd0fa.js"
   ]
 }

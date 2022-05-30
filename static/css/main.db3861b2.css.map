@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.db3861b2.css","mappings":"AAAA,EACE,QAEF,CAEA,MAEE,YAAa,CACb,gBAAiB,CACjB,iBAAkB,CAHlB,WAAY,CAIZ,UACF","sources":["App.css"],"sourcesContent":["* {\n  margin: 0;\n  /* width: 100%; */\n}\n\nvideo {\n  width: 100vw;\n  height: 100vh;\n  object-fit: cover;\n  position: absolute;\n  z-index: -1;\n}\n"],"names":[],"sourceRoot":""}
