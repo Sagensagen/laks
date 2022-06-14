@@ -83,9 +83,9 @@ export const HomeComponent = () => {
           background: "linear-gradient(to bottom, transparent, #0c0c0c)",
         }}
       >
-        <Box sx={{ alignContent: "center", mt: "10vh" }}>
+        <Box sx={{ alignContent: "center", mt: "20vh" }}>
           <Typography variant="h1" component="h1">
-            Gratanglaks
+            Bærekraft
           </Typography>
           <Divider sx={{ bgcolor: "gray" }}></Divider>
         </Box>
@@ -96,7 +96,7 @@ export const HomeComponent = () => {
           mb={5}
           ml={3}
           mr={12}
-          xs={12}
+          xs={4}
           sx={{
             display: {
               xs: "none",
@@ -105,24 +105,25 @@ export const HomeComponent = () => {
               lg: "flex",
               xl: "flex",
             },
+            mt: "20vh",
             alignContent: "flex-end",
           }}
         >
-          <Grid item xs={4} align="center">
+          {/* <Grid item xs={4} align="center">
             <Typography variant="h4">{data[0].title}</Typography>
             <Divider sx={{ bgcolor: "gray" }}></Divider>
             <Typography variant="subtitle1">{data[0].text}</Typography>
-          </Grid>
-          <Grid item xs={4} align="center">
+          </Grid> */}
+          <Grid item xs={12} align="center">
             <Typography variant="h4">{data[1].title}</Typography>
             <Divider sx={{ bgcolor: "gray" }}></Divider>
             <Typography variant="subtitle1">{data[1].text}</Typography>
           </Grid>
-          <Grid item xs={4} align="center">
+          {/*<Grid item xs={4} align="center">
             <Typography variant="h4">{data[2].title}</Typography>
             <Divider sx={{ bgcolor: "gray" }}></Divider>
             <Typography variant="subtitle1">{data[2].text}</Typography>
-          </Grid>
+          </Grid> */}
         </Grid>
         <Grid
           container

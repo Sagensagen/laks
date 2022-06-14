@@ -1,6 +1,7 @@
 import "./App.css";
+import "./test.css";
 // import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import { Home } from "./pages/Home";
+import { LandingPage } from "./pages/LandingPage";
 import {
   createTheme,
   ThemeProvider,
@@ -11,7 +12,7 @@ import {
 function App() {
   const theme = createTheme({
     typography: {
-      fontFamily: "Sans-serif",
+      fontFamily: "Railway",
     },
     palette: {
       primary: { main: "rgba(255,255,255,.8)" },
@@ -27,19 +28,9 @@ function App() {
     <>
       <ThemeProvider theme={responsiveTheme}>
         <CssBaseline></CssBaseline>
-        <div className="main">
-          {/* //{" "} */}
-          {/* <Router> */}
-          {/* //{" "} */}
-          {/* <Routes> */}
-          {/* // <Route path="/" element={<Home />} /> */}
-          {/* //{" "} */}
-          {/* </Routes> */}
-          {/* //{" "} */}
-          {/* </Router> */}
-          {/* //{" "} */}
-          <Home></Home>
-        </div>{" "}
+        <div classNameName="main">
+          <LandingPage></LandingPage>
+        </div>
       </ThemeProvider>
     </>
   );

@@ -17,16 +17,15 @@ export const Reports = () => {
           width: "100vw",
           color: "white",
         }}
-        alignItems="center"
       >
         <Box
           justifyContent="center"
           margin="auto"
           display="flex"
           sx={{
-            // width: "60%",
             zIndex: 1000,
-            bgcolor: "transparent",
+
+            width: "100vw",
           }}
         >
           <PdfViewDouble></PdfViewDouble>
